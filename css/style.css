@@ -6,7 +6,13 @@
  /* main section */
  
  
- 
+ .nv{margin:auto;}
+.nv ul li{padding: 20px; font-size: 1.5rem;}
+.navbar-brand{display: flex;}
+.navbar-brand img{width: 45px;}
+.fa-search{font-size: 2rem;}
+
+
  
  
  
@@ -109,7 +115,9 @@
  
  
  
- 
+ .ggg{
+	 color:black;
+ }
  
  
  
@@ -328,12 +336,32 @@
  .cart{
 	background-color:#F4F4F4;
 	 width:300px;
-	 height:350px;
+	 height:330px;
  }
  
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ .xc{
+	 background:#1BBC9D;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .last{
+	 background:#F2F2F2;
+ }
  
  
  

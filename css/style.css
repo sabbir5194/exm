@@ -19,9 +19,14 @@
  
  /* section-1 */
  
+ .sabbir{
+	 background-color:#C9BDB3;
+ }
  
- 
- 
+ .sss{
+	 width:100%;
+	 height:500px;
+ }
  
  
  
@@ -44,10 +49,13 @@
  /* section-2 */
  
  
- 
- 
- 
- 
+ .ccc{
+	 border:1px solid;
+	padding:20px;
+	 border-radius:50%;
+	 border-color:white;
+ background:#F0F0F0;
+ }
  
  
  
@@ -68,15 +76,33 @@
  
  /* section-3 */
  
+ .aaa{
+	 background:#CFC1B3;
+	 width:100%;
+	 height:400px;
+	 position:relative;
+ }
  
  
+ .bbb{
+	 position:absolute:
+	 bottom:50%;
+ }
+ 
+ .btn{
+	background:#B0CD3B;
+	 color:white;
+ }
  
  
+ .vvv{
+	 background:#1BBC9D; 
+	 color:white;
+ }
  
- 
- 
- 
- 
+ h1{
+	 color:white;
+ }
  
  
  
@@ -98,8 +124,10 @@
  
  /* section-4 */
  
- 
- 
+ .mmm{
+	 background-color:#ECECEC;
+	 color:black;
+ }
  
  
  
@@ -121,6 +149,189 @@
  
  
  /* section-4 */
+ 
+ 
+ /* section5 */
+ 
+ 
+ 
+ .cono h1,h2{
+	color:white; 
+ }
+ 
+ 
+ .kkk{
+	 background:#CFC1B3;
+	 width:100%;
+	 height:300px;
+	 position:relative;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* end section5 */
+ 
+ 
+ /* section5 */
+ 
+ 
+ 
+ .hhh{
+	 width:200px;
+	 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* section5 */
+ 
+ 
+ 
+ 
+ 
+ .qqq{
+	 background:#CFC1B3;
+	 width:100%;
+	 height:300px;
+	 position:relative;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .manee{
+	 background-color:#F2F2F2;
+	 width:100%;
+	 height:450px;
+ }
+ 
+ .ttt h2{
+	 color:black;
+ }
+ 
+ input#exampleInputEmail1 {
+    border: 0;
+    border-bottom: 1px solid;
+}
+
+
+ .vvv{
+	 background:#1BBC9D;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .zzz{
+	 background:#CFC1B3;
+	 width:100%;
+	 height:300px;
+	 position:relative;
+ }
+ 
+ 
+ 
+ .f{
+	text-decoration:none; 
+	color:gray;
+	border:1px solid;
+	padding:5px;
+	border-radius:50%;
+	background:white;
+	margin:5px;
+ }
+ 
+ 
+ .social-icons:hover .f{
+	 background:red;
+	 
+	 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .x{
+	 text-decoration:none;
+	 color:#B0CD3B;
+ }
+ 
+ .xx{
+	 color:black;
+ }
+ 
+ .vb{
+	 color:#1ceeb9;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .cart{
+	background-color:#F4F4F4;
+	 width:300px;
+	 height:350px;
+ }
+ 
+ 
  
  
  
